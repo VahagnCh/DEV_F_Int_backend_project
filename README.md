@@ -1,10 +1,8 @@
-# DEV_F_Int_backend_project
+## DEV_F_Int_backend_project
 
-This is my final project for Into to Back End and SQL at DEV.F
+# Final project Backend and SQL 
 
 ---
-
-Here is the information for the project: 
 
 API that allows searching for people based on their skills for hiring purposes.
 
@@ -18,11 +16,11 @@ They contact him and agree to work for 6 hours to record a commercial. Rappi nee
 
 Once the commercial is finished, both Pedrito Sola and Rappi confirm that the service is completed in the app. Rappi must then complete the payment and rate Pedrito Sola’s service.
 
-Technical requirements for the project:
+# Technical requirements for the project:
 
-Database design (draw.io, Miro, etc.)
-Migrations
-MVC
+- **Database Design**: Created using tools like [draw.io](https://www.draw.io/), [Miro](https://miro.com/), etc.
+- **Migrations**: Proper database migrations for schema management.
+- **MVC (Model-View-Controller)**: Adhering to the MVC architectural pattern.
 
 ---
 
