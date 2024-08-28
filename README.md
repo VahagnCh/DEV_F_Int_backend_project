@@ -1,6 +1,6 @@
 ## DEV_F_Int_backend_project
 
-# Final project Backend and SQL 
+# Final project intro to Backend and SQL 
 
 ---
 
